@@ -1,163 +1,163 @@
 /* Red Color CSS */
 
 body{
-border-top:3px solid #ee151b;
+border-top:3px solid #851B15;
 }
 
 .color{
-color:#ee151b;
+color:#851B15;
 }
 
 a, a:visited{
-color:#ee151b;
+color:#851B15;
 }
 
 a:hover{
-color:#d01216;
+color:#691410;
 }
 
 .navbar{
-background: #ee151b !important;
-border-top:1px solid #d01216 !important;
-border-bottom:1px solid #d01216 !important; 
+background: #851B15 !important;
+border-top:1px solid #691410 !important;
+border-bottom:1px solid #691410 !important; 
 }
 
 .nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
-   border-color: #d71317;
+   border-color: #8B3A18;
 }
 
 .navbar button{
-background:#d01216 !important;  
+background:#691410 !important;  
 }
 
 .navbar button:hover{
-background:#d01216 !important;
+background:#691410 !important;
 }
 
 .navbar .nav{
-border-right:1px solid #d71317;
+border-right:1px solid #8B3A18;
 }
 
 .navbar .nav > li > a{
-background: #ee151b; 
-border-left:1px solid #d71317;
+background: #851B15; 
+border-left:1px solid #8B3A18;
 }
 
 .navbar .nav > li > a:hover{
-background:#d01216 !important;
+background:#691410 !important;
 }
 
 .navbar .nav .active > a,
 .navbar .nav .active > a:hover,
 .navbar .nav .active > a:focus {
-background: #d01216 !important;
+background: #691410 !important;
 }
 
 .dropdown-toggle{
-background: #ee151b !important;
+background: #851B15 !important;
 }
 
 
 .dropdown-menu{
-background:#ee151b !important;
-border:1px solid #d01216;
+background:#851B15 !important;
+border:1px solid #691410;
 }
 
 .dropdown-menu a{
-background:#ee151b !important;
-border-bottom:1px solid #d01216;
+background:#851B15 !important;
+border-bottom:1px solid #691410;
 }
 
 .dropdown-menu a:hover,.dropdown-menu a:focus{
-background:#d01216 !important;
+background:#691410 !important;
 }
 
 .social i{
-background:#ee151b;
+background:#851B15;
 }
 
 .social i:hover{
-background:#d01216;
+background:#691410;
 }
 
 .flex-caption{
-border-left:4px solid #ee151b;
+border-left:4px solid #851B15;
 }
 
 .service i{
-color:#ee151b;
+color:#851B15;
 }
 
 /* Timeline */
 
 .time .tidate{
-background:#ee151b;
+background:#851B15;
 }
 
 .time .timatter{
-border-bottom:2px solid #ee151b;
+border-bottom:2px solid #851B15;
 }
 
 /* Events - Accordion*/
 
 .events .accordion-heading h5{
-background:#ee151b;
+background:#851B15;
 }
 
 /* Slider */
 
 .da-slider{
-border-top: 4px solid #ee151b;
-border-bottom: 4px solid #ee151b;
+border-top: 4px solid #851B15;
+border-bottom: 4px solid #851B15;
 }
 
 .da-slide h2{
-color:#ee151b;
+color:#851B15;
 }
 
 .da-slide .da-link{
-background:#ee151b;
+background:#851B15;
 }
 
 /* Testimonial */
 
 .test{
-border-bottom:2px solid #ee151b;
+border-bottom:2px solid #851B15;
 }
 
 .test-arrow{
-border-top-color: #ee151b;
+border-top-color: #851B15;
 }
 
 /* Feature alt */
 
 .afeature:hover{
-border:5px solid #ee151b;
+border:5px solid #851B15;
 }
 
 .afmatter i{
-color:#ee151b;
+color:#851B15;
 }
 
 
 .rpost1:hover,.rpost2:hover{
-border-bottom:2px solid #ee151b;
+border-bottom:2px solid #851B15;
 }
 
 .accordion-heading i{
-color:#ee151b;
+color:#851B15;
 }
 
 .process i{
-color:#ee151b;
+color:#851B15;
 }
 
 .process-meta span{
-background:#ee151b;
+background:#851B15;
 }
 
 .feat h4 i{
-color:#ee151b;
+color:#851B15;
 }
 
 .content ul li{
@@ -165,71 +165,71 @@ background-image:url('../img/list-r.png');
 }
 
 .blog .meta i{
-color:#ee151b;
+color:#851B15;
 }
 
 .posts .tags a{
-background:#ee151b;
-border:1px solid #d01216;
-border-bottom:3px solid #d01216;
+background:#851B15;
+border:1px solid #691410;
+border-bottom:3px solid #691410;
 }
 
 .posts .tags a:hover{
-border-bottom:3px solid #ee151b;
-background:#d01216;
-border:1px solid #d01216;
+border-bottom:3px solid #851B15;
+background:#691410;
+border:1px solid #691410;
 }
 
 .paging a:hover{
-background: #ee151b;
-border:1px solid #d01216;
+background: #851B15;
+border:1px solid #691410;
 }
 
 .paging .current{
-background: #ee151b;
-border:1px solid #d01216;
+background: #851B15;
+border:1px solid #691410;
 }
 
 .serv .simg i{
-color:#ee151b;
+color:#851B15;
 }
 
 .button a, .button a:visited{
-background:#ee151b;
-border-bottom:2px solid #d01216;
+background:#851B15;
+border-bottom:2px solid #691410;
 }
 
 .button a:hover{
-background:#d01216;
+background:#691410;
 }
 
 .pricel .phead-top{
-background:#ee151b;
-border:1px solid #d01216;
+background:#851B15;
+border:1px solid #691410;
 }
 
 .pricel .phead-bottom{
-border-top:1px solid #d01216;
+border-top:1px solid #691410;
 }
 
 .nav-tabs > li > a:hover{
-background:#ee151b;
+background:#851B15;
 }
 
 .about .asocial i{
-background:#ee151b;
+background:#851B15;
 }
 
 .resume h4{
-background:#ee151b;
+background:#851B15;
 }
 
 .resume h5{
-color:#ee151b;
+color:#851B15;
 }
 
 footer{
-border-top:3px solid #ee151b;
+border-top:3px solid #851B15;
 }
 
 footer ul li{
